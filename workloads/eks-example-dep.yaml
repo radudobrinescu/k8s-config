@@ -9,7 +9,7 @@ metadata:
   annotations:
     # Container Image Automated Updates
     flux.weave.works/automated: "true"
-    # do not apply this manifest on the cluster
+    # do not uuuapply this manifest on the cluster
     #flux.weave.works/ignore: "true"
 spec:
   replicas: 1
